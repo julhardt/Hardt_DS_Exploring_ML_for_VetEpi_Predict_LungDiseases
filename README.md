@@ -10,7 +10,7 @@ It uses a simulated data set from Veterinary Epidemiology and several Data Scien
 The project has been implemented in Python as a .py program script, using Visual Studio Code as development environment.  
 
 ## Requirements
-An enviroment with Python 3.9.13 is required.  
+An environment with Python 3.9.13 is required.  
 No tests have been done with different Python versions.
 ## Installation
 It is recommended to use a virtual environment for setup.  
