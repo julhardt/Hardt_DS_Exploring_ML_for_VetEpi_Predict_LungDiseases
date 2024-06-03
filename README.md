@@ -2,6 +2,8 @@
 Project thesis for certification as Data Scientist (Digethic)  
     
 **Project Title**: Exploring Machine Learning Methods for Veterinary Epidemiology: Prediction of Lung Diseases in Pigs
+
+
 **Description**: 
 This project has been implemented for an certification as "Data Scientist".  
 It uses a simulated data set from Veterinary Epidemiology and several Data Science methods for a prediction of the prevalence of lung diseases.  
