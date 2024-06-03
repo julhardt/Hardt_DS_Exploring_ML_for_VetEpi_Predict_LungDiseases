@@ -5,7 +5,7 @@ Project thesis for certification as Data Scientist (Digethic)
 
 
 **Description**: 
-This project has been implemented for an certification as "Data Scientist".  
+This project has been implemented for a certification as "Data Scientist".  
 It uses a simulated data set from Veterinary Epidemiology and several Data Science methods for a prediction of the prevalence of lung diseases.  
 The project has been implemented in Python as a .py program script, using Visual Studio Code as development environment.  
 
